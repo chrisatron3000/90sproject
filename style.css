@@ -1,5 +1,5 @@
 body {
-    background-image: "Images/HeavenStairway.png";
+    background-image: url("Images/HeavenStairway.png");
     background-repeat: repeat;
 }
 
