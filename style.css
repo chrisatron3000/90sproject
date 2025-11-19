@@ -2,3 +2,34 @@ body {
     background-image: "HeavenStairway.png";
     background-repeat: repeat;
 }
+
+.headbox {
+    background-color: gold;
+    border: black solid 4px;
+    margin: 8px;
+    box-shadow: 8px 8px gray inset;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bodybox {
+    background-color: blue;
+    border: black solid 4px;
+    margin: 8px;
+    box-shadow: 8px 8px gray inset;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    color: gold;
+    text-emphasis: inherit;
+}
+
+table {
+    background-color: white;
+    border: black solid 4px;
+    border-collapse: collapse;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
